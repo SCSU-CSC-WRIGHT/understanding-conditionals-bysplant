@@ -64,4 +64,4 @@ elif (num == 6):
 elif (num == 7):
     print("Sunday")
 else:
-    print("You didn't enter a number between 1 and 7.")"Sunday")
+    print("You didn't enter a number between 1 and 7.")
